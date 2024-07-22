@@ -3,3 +3,9 @@ resource "null_resource" "example" {
     command = "echo 'This is a null resource'"
   }
 }
+
+resource "null_resource" "example2" {
+  provisioner "local-exec" {
+    command = "echo 'This is a null resource'"
+  }
+}
