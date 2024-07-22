@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ndesilets/ci-test/compare/v1.0.0...v1.0.1) (2024-07-22)
+
+
+### Bug Fixes
+
+* fixed all the things ([939cefa](https://github.com/ndesilets/ci-test/commit/939cefaec61b693c7764abcb6acb8c8e474d2ec8))
+
 # 1.0.0 (2024-07-22)
 
 
