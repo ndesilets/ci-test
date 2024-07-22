@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/ndesilets/ci-test/compare/v1.0.1...v2.0.0) (2024-07-22)
+
+
+* Merge pull request [#4](https://github.com/ndesilets/ci-test/issues/4) from ndesilets/my-branch-3 ([8af6175](https://github.com/ndesilets/ci-test/commit/8af617540bf2f8a1981792cf5560ac16619a81c8))
+
+
+### BREAKING CHANGES
+
+* break all the things
+
 ## [1.0.1](https://github.com/ndesilets/ci-test/compare/v1.0.0...v1.0.1) (2024-07-22)
 
 
