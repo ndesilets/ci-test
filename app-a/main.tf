@@ -10,4 +10,5 @@ resource "null_resource" "example2" {
   }
   # app-a test
   # test
+  # test
 }
