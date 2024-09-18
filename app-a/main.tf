@@ -9,4 +9,5 @@ resource "null_resource" "example2" {
     command = "echo 'This is a null resource'"
   }
   # app-a test
+  # test
 }
