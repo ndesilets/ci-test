@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ndesilets/ci-test/compare/v1.0.3...v1.1.0) (2024-11-19)
+
+
+### Features
+
+* test ([136afea](https://github.com/ndesilets/ci-test/commit/136afea9da234171e4d790372a542af963ac63ef))
+
 ## [1.0.3](https://github.com/ndesilets/ci-test/compare/v1.0.2...v1.0.3) (2024-11-19)
 
 
