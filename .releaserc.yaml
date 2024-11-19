@@ -1,8 +1,5 @@
 branches: 
   - main
-  - name: 1.x
-    range: 1.x
-    prerelease: false
 plugins:
   - - '@semantic-release/commit-analyzer'
     - releaseRules:
