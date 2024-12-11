@@ -9,4 +9,4 @@ plugins:
   - '@semantic-release/release-notes-generator'
   - '@semantic-release/changelog'
   - '@semantic-release/github'
-# extends: semantic-release-monorepo
+extends: semantic-release-monorepo
