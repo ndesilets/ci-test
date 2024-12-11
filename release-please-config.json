@@ -1,11 +1,11 @@
 {
-  "release-type": "simple",
+  "release-type": "node",
   "packages": {
     "app-a": {
-      "release-type": "simple",
+      "release-type": "node"
     },
     "app-b": {
-      "release-type": "simple",
+      "release-type": "node"
     }
   }
 }
