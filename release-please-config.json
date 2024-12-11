@@ -1,11 +1,10 @@
 {
+  "release-type": "simple",
   "packages": {
     "app-a": {
-      "release-type": "simple",
       "changelog-path": null
     },
     "app-b": {
-      "release-type": "simple",
       "changelog-path": null
     }
   }
